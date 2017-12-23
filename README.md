@@ -1,20 +1,21 @@
 # Dropbox-MERN-Kafka
 Prototype of Dropbox Application in MERN Stack with Kafka Producer and Consumer Architecture
+
 ## Follow below steps to run this application
 
-Back-end server:
+Back-end:
 
 cd nodelogin
 
-npm install (installs the node_modules which are mentioned in package.json)
+npm install 
 
 npm start
 
-Front-end server:
+Front-end:
 
 cd reactlogin
 
-npm install (installs the node_modules which are mentioned in package.json)
+npm install 
 
 npm start
 
