@@ -18,4 +18,5 @@ npm install (installs the node_modules which are mentioned in package.json)
 
 npm start
 
-Server at localhost:3001 Client at localhost:3000
+Server is running at localhost:3001<br> 
+Client is running at localhost:3000
